@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Type Script</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+    <script src="systemjs-master/dist/system.js"></script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>First Name </td>
+            <td><input class="form-control" type="text" name="Fname" id="Fname" value="" /> </td>
+        </tr>
+        <tr>
+            <td>Last Name</td>
+            <td> <input class="form-control" type="text" name="Lname" id="Lname" value="" /> </td>
+        </tr>
+
+        <tr>
+            <td>
+                <button type="submit" name="submit" class="btn btn-primary" id="submit" onclick="createFunc()">Submit</button>
+            </td>
+        </tr>
+       
+    </table>
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <!-- IncludeFiles -->
+    <script src="1.ClassAndDataTypeScriptFile.js"></script>
+    <script src="2.MethodTypeScriptFile.js"></script>
+    <script src="3GeterSeterTypeScriptFile.js"></script>
+
+
+
+    <script type="text/javascript">
+        $(function () {
+
+
+
+        });
+            //1.ClassTypeScriptFile Example
+            //function createFunc() {
+            //    var fval = $("#Fname").val();
+            //    var lval = $("#Lname").val();
+            //    var s1 = new Student(fval, lval);
+            //    var s2 = new SubsStudent();
+
+            //    s1.getNo();
+            //    alert(s2.getNo());
+            //}
+
+
+            //2.ClassTypeScriptFile Example
+            //function createFunc() {
+            //    var fval = $("#Fname").val();
+            //    var lval = $("#Lname").val();
+            //    var s1 = new Student2();
+            //    var result = s1.Multiply(fval, lval);
+            //    alert(result);
+            //}
+
+
+
+        //2.GeterSeterTypeScriptFile Example
+            function createFunc() {
+                var StudentName = $("#Fname").val();
+                var StudentStudentmarks = $("#Lname").val();
+
+                try {
+
+                var s1 = new Student3GetSet();
+                s1.StudentName = StudentName;
+                s1.StudentStudentmarks = StudentStudentmarks;
+                s1._test = "Pass !!!";
+                alert(s1._test);
+
+                } catch (ex) {
+                    alert(ex);
+                }
+            }
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>

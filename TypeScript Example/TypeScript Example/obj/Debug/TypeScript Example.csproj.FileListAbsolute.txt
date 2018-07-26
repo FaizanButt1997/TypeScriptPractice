@@ -1,0 +1,23 @@
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\TypeScript Example.dll.config
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\TypeScript Example.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\TypeScript Example.pdb
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\obj\Debug\TypeScript Example.csproj.CoreCompileInputs.cache
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\obj\Debug\TypeScript Example.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\obj\Debug\TypeScript Example.pdb
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\obj\Debug\TypeScript Example.csprojResolveAssemblyReference.cache
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Antlr3.Runtime.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\BundleTransformer.Core.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\BundleTransformer.TypeScript.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\JavaScriptEngineSwitcher.Core.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Microsoft.Web.Infrastructure.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Newtonsoft.Json.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\System.Web.Optimization.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\WebGrease.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Antlr3.Runtime.pdb
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\JavaScriptEngineSwitcher.Core.xml
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\Newtonsoft.Json.xml
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\System.Web.Optimization.xml
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\ru-ru\BundleTransformer.Core.resources.dll
+F:\Tutorials\TypeScript\TypeScript Example\TypeScript Example\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll

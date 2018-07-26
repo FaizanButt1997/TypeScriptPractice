@@ -1,0 +1,9 @@
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\bin\UdemyTypeScriptEXAMPLE.dll.config
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\bin\UdemyTypeScriptEXAMPLE.dll
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\bin\UdemyTypeScriptEXAMPLE.pdb
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\obj\Debug\UdemyBasicTypeScriptEXAMPLE.csprojResolveAssemblyReference.cache
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\obj\Debug\UdemyBasicTypeScriptEXAMPLE.csproj.CoreCompileInputs.cache
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\obj\Debug\UdemyTypeScriptEXAMPLE.dll
+F:\Tutorials\TypeScript\TypeScript Example\UdemyTypeScriptEXAMPLE\obj\Debug\UdemyTypeScriptEXAMPLE.pdb
